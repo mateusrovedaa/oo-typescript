@@ -1,5 +1,5 @@
-import Calculator from "./Entity/Calculator";
-import Person from "./Entity/Person";
+import Calculator from "./entity/Calculator";
+import Person from "./entity/Person";
 import promptSync from "prompt-sync";
 
 const prompt = promptSync();
